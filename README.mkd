@@ -1,0 +1,13 @@
+== Rails + ReactJS
+
+This example shows how to integrate Rails + ReactJS and is based on this page **'http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html'** with some changes
+
+To run this project follow the steps
+
+```ruby
+bundle install
+
+rake db:create db:migrate db:populate
+
+rails server
+```
